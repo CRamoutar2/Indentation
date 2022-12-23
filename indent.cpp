@@ -1,6 +1,4 @@
 //Chethram Ramoutar
-//4/1/20
-//Lab 7B
 //Instructor Maryash/Melissa
 
 #include <iostream>
